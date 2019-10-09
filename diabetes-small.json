@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "Ernst Mayer",
+    "Geschlecht": "maennlich",
+    "BMI": 24.9,
+    "NBZ": 116,
+    "HbA1c": 9.9,
+    "Chol": 163,
+    "TG": 55,
+    "Nikotin": "T"
+  },
+  {
+    "Name": "Elfriede Blau",
+    "Geschlecht": "weiblich",
+    "BMI": 31.7,
+    "NBZ": 221,
+    "HbA1c": 9.3,
+    "Chol": 209,
+    "TG": 531,
+    "Nikotin": "T"
+  },
+  {
+    "Name": "Petra Maus",
+    "Geschlecht": "weiblich",
+    "BMI": 21.6,
+    "NBZ": 293,
+    "HbA1c": 13.2,
+    "Chol": 220,
+    "TG": 94,
+    "Nikotin": "T"
+  },
+  {
+    "Name": "Klaus Penz",
+    "Geschlecht": "maennlich",
+    "BMI": 22.5,
+    "NBZ": 133,
+    "HbA1c": 8,
+    "Chol": 138,
+    "TG": 87,
+    "Nikotin": "T"
+  },
+  {
+    "Name": "Norbert Fellner",
+    "Geschlecht": "maennlich",
+    "BMI": 34.4,
+    "NBZ": 96,
+    "HbA1c": 5.8,
+    "Chol": 190,
+    "TG": 116,
+    "Nikotin": "T"
+  },
+  {
+    "Name": "Ingo Cleric",
+    "Geschlecht": "maennlich",
+    "BMI": 33.7,
+    "NBZ": 125,
+    "HbA1c": 9.2,
+    "Chol": 169,
+    "TG": 251,
+    "Nikotin": "F"
+  },
+  {
+    "Name": "Alois Wein",
+    "Geschlecht": "maennlich",
+    "BMI": 36.7,
+    "NBZ": 140,
+    "HbA1c": 7.7,
+    "Chol": 134,
+    "TG": 196,
+    "Nikotin": "F"
+  }
+]
